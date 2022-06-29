@@ -1,0 +1,50 @@
+1. countdown //done
+2. strlen //done
+3. firstrune //done
+4. lastrune //done
+5. rot13 //done
+6. lastword //done
+7. tabmult //done
+8. alphamirror
+9. compare
+10. doop
+11 . ispower2
+12. union
+13. inter
+14. swapbits
+15. repeatalpha
+16. sortwordarr
+17. printhex
+18. gcd 
+19. hiddenep
+20. rostring
+21. split
+22. revwstr
+23. fprime
+24. addprimesum
+25. atoibase
+26. itoa
+27. printmemory
+28. rpncalc
+29. brackets
+30. listsize
+31. options
+32. listremoveif
+33. itoabase
+34. addlinkedlist
+35. brainfuck
+36. isanagram
+37. balancedstring
+38. changeorder
+39. inverttree
+40. lcm
+41. merge
+42. nauuo
+43. printchessboard
+44. priorprime
+45. reverse
+46. robottoorigin
+47. sametree
+48. sortll
+49. twosum
+50. uniqueoccurances
